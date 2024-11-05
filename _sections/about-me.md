@@ -22,4 +22,4 @@ I presented autonomous vehicle research at the Spring 2024 College of Science Re
 Symposium and conducted adversarial machine learning research during the NSF REU Security of Smart Things program at Florida International University. 
 
 My background in computer science encompasses programming, machine learning, computer vision, 
-robotics, control systems, and leadership roles, ready to take on new challenges in the field.
+robotics, control systems, and leadership roles, makes me ready to take on new challenges in the field.
