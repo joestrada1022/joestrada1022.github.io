@@ -1,6 +1,6 @@
 ---
 title: NSF REU Security of Smart Things
-author: Chris
+author: 
 layout: post
 category: work
 ---
