@@ -4,7 +4,6 @@ author:
 layout: post
 category: project
 ---
-
 Generative Adversarial Network MNIST data generation
 
 ---
