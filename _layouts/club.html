@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign _club_sections = site.club_sections | sort: 'order' -%}
+{%- include header.html scrolly_nav=_club_sections -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _club_section in _club_sections -%}
+		{%- include section.html title=_club_section.title photo=_club_section.cover-photo photo-alt=_club_section.cover-photo-alt auto-header=_club_section.auto-header content=_club_section.content -%}
+	{%- endfor -%}
+</div>
