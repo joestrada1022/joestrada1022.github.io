@@ -18,25 +18,25 @@ export const portfolioData = {
       company: "PARES AI (YC 25)",
       role: "Software Engineering Intern",
       duration: "August 2025 - February 2026",
-      description: "Led the frontend team to rebuild the core SaaS product using React and TypeScript. Improved performance by 40%."
+      description: "Developed full-stack subscription and quota management systems using Next.js and Supabase. Refactored legacy Twilio workflows into reusable backend endpoints to support standalone outbound dialing."
     },
     {
       company: "Student Unmanned Aerial Systems",
       role: "Software Team Lead",
       duration: "August 2023 - August 2025",
-      description: "Led a team of 5 students to develop autonomous flight control software using C++ and Python. Coordinated directly with Lockheed Martin mentors."
+      description: "Led a team of 5 students to develop autonomous flight control software using ROS and Mavlink and simulations using SITL and Gazebo. Coordinated directly with Lockheed Martin sponsors."
     },
     {
       company: "Lutron Electronics",
       role: "Software Engineering Intern",
       duration: "June 2025 - August 2025",
-      description: "Led the frontend team to rebuild the core SaaS product using React and TypeScript. Improved performance by 40%."
+      description: "Optimized the interactive floorplan applet using React Konva and TypeScript, improving rendering speeds by 28%. Engineered a custom hierarchical clustering algorithm to enhance UI clarity and integrated Cypress for automated testing."
     },
     {
       company: "NSF REU Security of Smart Things",
       role: "Machine Learning Researcher",
       duration: "June 2024 - July 2024",
-      description: "Developed and maintained various client-facing web applications. Specialized in creating responsive UI components."
+      description: "Researched adversarial GAN attacks on video classifiers, achieving a 40% misclassification rate while maintaining visual fidelity. Built an optimized data pipeline using OpenCV and NumPy that increased preprocessing speeds by 35%."
     }
   ],
   projects: [
