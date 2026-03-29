@@ -8,12 +8,12 @@ export const portfolioData = {
     linkedin: "https://www.linkedin.com/in/joshua-estrada22/",
   },
   experience: [
-    {
-      company: "RTX",
-      role: "Software Engineering I",
-      duration: "Incoming",
-      description: ""
-    },
+    // {
+    //   company: "RTX",
+    //   role: "Software Engineering I",
+    //   duration: "Incoming",
+    //   description: ""
+    // },
     {
       company: "PARES AI (YC 25)",
       role: "Software Engineering Intern",
