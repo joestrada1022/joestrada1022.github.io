@@ -57,6 +57,12 @@ export const portfolioData = {
       description: "Mobile app that scans your fridge for ingredients and generates possible recipes based off of them as well as gives you example meal plans you can have with those recipes.",
       technologies: ["React Native", "Express.js"],
       link: "https://github.com/wheatleyinabox/fridge-recipe-app"
+    },
+    {
+      title: "Crop Recon - Farmer Mesh Network Dashboard",
+      description: "A real-time environmental monitoring platform using ESP32-C3 and LoRa modules to provide immediate detection and automated alerting of temperature and humidity shifts in agricultural settings.",
+      technologies: ["Node.js", "Express.js", "React", "MongoDB", "ESP32"],
+      link: "https://devpost.com/software/crop-recon"
     }
   ]
 };
